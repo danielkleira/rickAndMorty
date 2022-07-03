@@ -1,0 +1,31 @@
+.vivo{
+    background-color: rgb(231, 231, 231);
+    font-weight: 800;
+    border-radius: 8px;
+    color:rgb(11, 168, 32);
+    margin: 8px;
+    border: 1px rgb(114, 113, 113) solid;
+    max-width: 18%;
+    word-wrap: break-word;  
+}
+
+.morto{
+    background-color: rgb(146, 86, 86);
+    font-weight: 800;
+    border-radius: 8px;
+    margin: 8px;
+    border: 1px black solid;
+    max-width: 18%;
+    word-wrap: break-word;
+}
+
+.paragrafo{
+    font-size: 22px;
+    height: 10%;
+    margin: 3px 3px 20% 3px;
+    
+}
+
+.imagem{
+    max-width: 80%;
+}
