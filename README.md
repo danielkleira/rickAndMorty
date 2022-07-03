@@ -1,6 +1,6 @@
 # Rick and Morty
 
-![alt text]("https://i.ibb.co/M17kd0x/Rickand.jpg")
+![alt text](https://i.ibb.co/M17kd0x/Rickand.jpg)
 
 # :bulb: Descrição
 
