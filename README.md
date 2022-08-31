@@ -8,7 +8,7 @@ Rick and Morty é uma aplicação que traz os personagens da série e o status d
 
 # :link: Link da aplicação
 
-https://react-atividade-s1-buscando-mais-personagens-danielkleira.vercel.app/
+https://rick-and-morty-list-danielkleira.vercel.app/
 
 # :computer: Tecnologias / Bibliotecas Utilizadas
 
